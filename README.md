@@ -21,3 +21,7 @@ Suspicious: 0
 Harmless: 0
 Undetected: 2
 Verdict: High Risk
+
+## Output screenshot 
+<img width="842" height="766" alt="image" src="https://github.com/user-attachments/assets/90213ec6-db35-40a8-86c6-285300792efc" />
+
