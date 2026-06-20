@@ -9,7 +9,7 @@ A Python-based IOC checker that queries the VirusTotal API to analyze hashes, IP
 ## How to Use
 1. Clone the repository
 2. Add your VirusTotal API key to the script
-3. Run: `python ioc_checker.py`
+3. Run: `python ioc.py`
 4. Enter IOC type (hash/ip/domain)
 5. Enter the IOC value
 6. Get instant verdict
